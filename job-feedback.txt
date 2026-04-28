@@ -1,1 +1,6 @@
+# Job Feedback Log
+# Format: Date | Job Title | Company | Applied (yes/no) | Response (yes/no) | Interview (yes/no) | Notes
 
+2026-04-28 | GTM Engineer | EverTrue | yes | pending | pending | Perfect fit, Salesforce + Clay + automation focus
+2026-04-28 | Staff GTM Engineer | Upside | no | n/a | n/a | Too senior (8+ years req), 3-day office requirement is a dealbreaker
+2026-04-28 | Revenue Engineer | Nooks | yes | pending | pending | Good match, compensation range works, fully remote
